@@ -1,4 +1,4 @@
-package tande.house.billingservice;
+package tande.house.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

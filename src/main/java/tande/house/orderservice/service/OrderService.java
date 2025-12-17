@@ -1,4 +1,4 @@
-package tande.house.billingservice.service;
+package tande.house.orderservice.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
@@ -6,9 +6,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.server.ResponseStatusException;
-import tande.house.billingservice.dto.*;
-import tande.house.billingservice.model.*;
-import tande.house.billingservice.repo.*;
+import tande.house.orderservice.dto.*;
+import tande.house.orderservice.model.*;
+import tande.house.orderservice.repo.*;
 
 import java.time.OffsetDateTime;
 import java.util.*;

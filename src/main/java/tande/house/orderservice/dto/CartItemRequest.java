@@ -1,4 +1,4 @@
-package tande.house.billingservice.dto;
+package tande.house.orderservice.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;

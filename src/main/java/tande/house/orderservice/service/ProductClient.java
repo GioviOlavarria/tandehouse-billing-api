@@ -1,4 +1,4 @@
-package tande.house.billingservice.service;
+package tande.house.orderservice.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;

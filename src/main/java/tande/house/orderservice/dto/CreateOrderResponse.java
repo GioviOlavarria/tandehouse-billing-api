@@ -1,4 +1,4 @@
-package tande.house.billingservice.dto;
+package tande.house.orderservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

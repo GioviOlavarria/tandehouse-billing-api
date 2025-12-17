@@ -1,7 +1,7 @@
-package tande.house.billingservice.repo;
+package tande.house.orderservice.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import tande.house.billingservice.model.OrderEntity;
+import tande.house.orderservice.model.OrderEntity;
 
 
 import java.util.Optional;

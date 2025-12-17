@@ -1,4 +1,4 @@
-package tande.house.billingservice.model;
+package tande.house.orderservice.model;
 
 
 public enum OrderStatus {

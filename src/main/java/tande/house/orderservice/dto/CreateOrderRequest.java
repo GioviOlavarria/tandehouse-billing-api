@@ -1,4 +1,4 @@
-package tande.house.billingservice.dto;
+package tande.house.orderservice.dto;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;

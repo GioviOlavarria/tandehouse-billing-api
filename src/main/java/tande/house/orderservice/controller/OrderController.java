@@ -1,4 +1,4 @@
-package tande.house.billingservice.controller;
+package tande.house.orderservice.controller;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
-import tande.house.billingservice.dto.*;
-import tande.house.billingservice.service.OrderService;
+import tande.house.orderservice.dto.*;
+import tande.house.orderservice.service.OrderService;
 
 @RestController
 @RequiredArgsConstructor
